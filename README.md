@@ -63,8 +63,20 @@
 ** Raw Websocket client/server
 
 
+## Pros and Cons
 
- 
+**Pros**
+
+	* Full-duplex (no polling)
+	* HTTP compatible
+	* Firewall friendly (standard)
+	
+**Cons**
+
+	* Proxying is tricky
+	* L7 l/B challenging (timeouts)
+	* stateful , difficult to horizontally scale 
+	 
  
  
  
