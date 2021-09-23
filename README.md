@@ -47,10 +47,11 @@
  
 ## WebSockets use cases
 
-** Chatting
-** Live Feed
-** Multiplayer gaming
-** Showing client progress/logging
+ ** Chatting
+ ** Live Feed
+ ** Multiplayer gaming
+ ** Showing client progress/logging
+ 
 
 
 ## Coding Time
